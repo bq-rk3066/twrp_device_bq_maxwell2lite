@@ -1,4 +1,3 @@
-/kernel              mtd          kernel                                          flags=backup=0
 /boot                mtd          boot                                            flags=backup=0
 /recovery            mtd          recovery                                        flags=backup=0
 /cache               ext4         /dev/block/mtd/by-name/cache
